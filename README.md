@@ -1,4 +1,12 @@
-### Hi there 👋
+## miamiaoxyz 
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=miamia0&show_icons=true&theme=tokyonight" />
+</a>
+
+🌱 I’m currently learning distributed system/storage.
+
+🤔 AFK icpc player.
 
 <!--
 **miamia0/miamia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
